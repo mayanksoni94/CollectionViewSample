@@ -1,0 +1,15 @@
+C:\Mayank\blog\CollectionViewSample\CollectionViewSample\CollectionViewSample\bin\Debug\netstandard2.0\CollectionViewSample.deps.json
+C:\Mayank\blog\CollectionViewSample\CollectionViewSample\CollectionViewSample\bin\Debug\netstandard2.0\CollectionViewSample.dll
+C:\Mayank\blog\CollectionViewSample\CollectionViewSample\CollectionViewSample\bin\Debug\netstandard2.0\CollectionViewSample.pdb
+C:\Mayank\blog\CollectionViewSample\CollectionViewSample\CollectionViewSample\obj\Debug\netstandard2.0\CollectionViewSample.csprojAssemblyReference.cache
+C:\Mayank\blog\CollectionViewSample\CollectionViewSample\CollectionViewSample\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Mayank\blog\CollectionViewSample\CollectionViewSample\CollectionViewSample\obj\Debug\netstandard2.0\AppShell.xaml.g.cs
+C:\Mayank\blog\CollectionViewSample\CollectionViewSample\CollectionViewSample\obj\Debug\netstandard2.0\BasicListPage.xaml.g.cs
+C:\Mayank\blog\CollectionViewSample\CollectionViewSample\CollectionViewSample\obj\Debug\netstandard2.0\CarouselPage.xaml.g.cs
+C:\Mayank\blog\CollectionViewSample\CollectionViewSample\CollectionViewSample\obj\Debug\netstandard2.0\GridListPage.xaml.g.cs
+C:\Mayank\blog\CollectionViewSample\CollectionViewSample\CollectionViewSample\obj\Debug\netstandard2.0\CollectionViewSample.csproj.CoreCompileInputs.cache
+C:\Mayank\blog\CollectionViewSample\CollectionViewSample\CollectionViewSample\obj\Debug\netstandard2.0\CollectionViewSample.AssemblyInfoInputs.cache
+C:\Mayank\blog\CollectionViewSample\CollectionViewSample\CollectionViewSample\obj\Debug\netstandard2.0\CollectionViewSample.AssemblyInfo.cs
+C:\Mayank\blog\CollectionViewSample\CollectionViewSample\CollectionViewSample\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Mayank\blog\CollectionViewSample\CollectionViewSample\CollectionViewSample\obj\Debug\netstandard2.0\CollectionViewSample.dll
+C:\Mayank\blog\CollectionViewSample\CollectionViewSample\CollectionViewSample\obj\Debug\netstandard2.0\CollectionViewSample.pdb
